@@ -76,7 +76,7 @@ If I had more time, future iterations could include:
 
 ## 📸 Screenshots
 
-!(assets/grafana-tfl-dashboard.png)
+![TfL Kings Cross Dashboard](grafana-tfl-dashboard.png)
 
 ---
 
