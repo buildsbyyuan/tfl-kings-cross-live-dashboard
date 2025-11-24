@@ -76,7 +76,7 @@ If I had more time, future iterations could include:
 
 ## 📸 Screenshots
 
-![TfL Kings Cross Dashboard](assets/dashboard-screenshot.png)
+![TfL Kings Cross Dashboard](assets/grafana-tfl-dashboard.png)
 
 ---
 
